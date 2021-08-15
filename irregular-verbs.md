@@ -1,5 +1,6 @@
 |#|Base|Past|Past participle|Present Participle|Third Person, Singular|
 |-|-|-|-|-|-|
+|#|to- form|-ed form|I had ... | -ing form | He/She/It ...|
 |1|say|said|said|saying|says|
 |2|make|made|made|making|makes|
 |3|go|went|gone|going|goes|
