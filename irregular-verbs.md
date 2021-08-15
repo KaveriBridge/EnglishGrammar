@@ -1,4 +1,4 @@
-|Serial|Base|Past|Past participle|Present Participle|Third Person, Singular|
+|#|Base|Past|Past participle|Present Participle|Third Person, Singular|
 |-|-|-|-|-|-|
 |1|say|said|said|saying|says|
 |2|make|made|made|making|makes|
