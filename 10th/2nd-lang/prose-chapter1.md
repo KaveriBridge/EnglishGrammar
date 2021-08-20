@@ -6,11 +6,14 @@
 3. Did you have a ____________ for lunch? (pear/pair)
 4. The books are over __________ on the shelf. (their/there)
 
+[![](https://img.youtube.com/vi/oqqu6sTtAIo/0.jpg)](https://www.youtube.com/watch?v=oqqu6sTtAIo)
 
 ## Task 2. 
 ### Fill in the blanks by choosing the appropriate word and complete the story.
 This is a ___ (storey /story) told by a __________ (night/ knight). Once he received a letter. When he _________ (red/ read) it ______ (through/threw), he could not believe his own eyes._____________(Far/For), it was written________(buy/ by) none other than the queen of the land. She asked him to meet her _____ (at/ yet) a secret place. The knight was
 in a fix. But he thought _____ (of/ off) a plan to tide over this problem. He ______________ (vent/ went) to the meeting place, not alone, but along with his ___________ (fair/ fare) wife. Can you guess what happened then?
+
+[![](https://img.youtube.com/vi/oqqu6sTtAIo/0.jpg)](https://www.youtube.com/watch?v=oqqu6sTtAIo)
 
 ## Task 3. 
 ### Scramble the letters to form words. See the meaning clues in brackets.
