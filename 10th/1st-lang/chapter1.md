@@ -1,5 +1,5 @@
-## X. GRAMMAR REVISITED :
-### A. Fill in the blanks with ‘a’ or ‘an’ :
+# X. GRAMMAR REVISITED :
+## A. Fill in the blanks with ‘a’ or ‘an’ :
 1. His long nose gives him ___ unique feature.
 2. Looking at him I said that he must be ___ European.
 3. I met him ___ year ago.
@@ -16,7 +16,10 @@
 14. My name begins with ___ “H”
 15. It surely was ___ historical event
 
-### B. Fill in the blanks with a, an, or the wherever necessary (Note : there are some blanks where an article is not required).
+[![](https://img.youtube.com/vi/USHfJdisXFg/0.jpg)](https://www.youtube.com/watch?v=USHfJdisXFg)
+
+
+## B. Fill in the blanks with a, an, or the wherever necessary (Note : there are some blanks where an article is not required).
 1. There is ___ fly in ___ coffee.
 2. ___ book you wanted is not in the library.
 3. ___ cow is ___ useful animal.
@@ -24,20 +27,16 @@
 5. “Where is Esther?” She has gone to ___ school.
 6. ___ Cauvery flows into ___ Bay of Bengal.
 7. I love stories from ___ Ramayana and ___ Mahabharata.
-14
 8. Hamlet is ___ greatest tragedy of ___ Shakespeare.
-9. Joshua plays ____ piano well. So his parents bought him ____ new piano.
+9. Joshua plays ___ piano well. So his parents bought him ___ new piano.
 10. The climax is in ___ 10th chapter, not in ___ chapter 9.
-11. My uncle who was very ill last week, is still in ___ hospital.
-If you go to ___ hospital you can see him.
-12. I am going to ___ market to buy vegetables. You cannot come
-with me because you have to go to ___ school.
+11. My uncle who was very ill last week, is still in ___ hospital. If you go to ___ hospital you can see him.
+12. I am going to ___ market to buy vegetables. You cannot come with me because you have to go to ___ school.
 13. “Dad, is ___ aunt coming with ___ uncle?”
-14. ___ kindness is a great virtue. I cannot forget ___ kindness he
-showered on me.
-15. ___ English is ___ universal language. I learnt English at ___
-school.
-### C. Fill in the blanks with suitable prepositions.
+14. ___ kindness is a great virtue. I cannot forget ___ kindness he showered on me.
+15. ___ English is ___ universal language. I learnt English at ___ school.
+
+## C. Fill in the blanks with suitable prepositions.
 1. This table is made —— wood.
 2. I expected —— him a better performance.
 3.	 He is a man —— a fine sense of humour.
@@ -58,19 +57,16 @@ school.
 18. They presented him — a gold watch.
 19. Please refer —— your letter of July.
 20.	 This figure is wrong; please strike it ——
-### D. Fill in the blanks with suitable Articles or Prepositions:
+
+## D. Fill in the blanks with suitable Articles or Prepositions:
 It’s Never Too Late
-East Taiwan consists of Hualien and Taitung countries. —— area
-covers 8143 square kilometers, about one - fifth of Taiwan's total
-area, but has —— population of only 610000 or just three percent
-—— the population of Taiwan. Communities are usually found ——
-the few scattered flat areas. —— administration centers, Hualien City
-and Taitung City, are located —— —— north and south of —— area
+East Taiwan consists of Hualien and Taitung countries. —— area covers 8143 square kilometers, about one-fifth of Taiwan's total
+area, but has —— population of only 610000 or just three percent —— the population of Taiwan. Communities are usually found ——
+the few scattered flat areas. —— administration centers, Hualien City and Taitung City, are located —— —— north and south of —— area
 respectively.
-Apart from these two cities, there are more than 20 towns and
-villages scattered throughout —— area, so you will not find yourself
-alone while traveling.
-East Taiwan faces —— Pacific Ocean and is bounded —— the west
+
+Apart from these two cities, there are more than 20 towns and villages scattered throughout —— area, so you will not find yourself
+alone while traveling. East Taiwan faces —— Pacific Ocean and is bounded —— the west
 —— the Central Range —— 170-km-long Coastal Range bisects ——
 region, running parallel — —— coast.
  —— total length —— east Taiwan's coastline is over 300 kilometers. Numerous scenic places are to be found —— —— exceptional
