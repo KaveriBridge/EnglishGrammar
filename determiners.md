@@ -4,29 +4,11 @@
 |Indefinite - a/an|✅|❌|❌|
 |Definite - the|✅|✅|✅|
 
-## Other
+## This/That
 |Determiner|Singular <br> Countable <br> (e.g cat)|Plural <br> Countable <br> (e.g. cats) | Singular <br> Uncountable <br> (e.g water)|
 |-|-|-|-|
 |this/that|✅|❌|✅|
 |these/those|❌|✅|❌|
-
-
-## Other
-|Determiner|Singular <br> Countable <br> (e.g cat)|Plural <br> Countable <br> (e.g. cats) | Singular <br> Uncountable <br> (e.g water)|
-|-|-|-|-|
-|each/every| ✅|❌|❌|
-|another| ✅|❌|❌|
-|either/neither|✅|❌|❌|
-|another|✅|❌|❌|
-|all|❌|✅|✅|
-|any|❌|✅|✅|
-|enough|❌|✅|✅|
-|no|✅|✅|✅|
-|more/less|❌|❌|✅|
-|much/little|❌|❌|✅|
-|many/few|❌|✅|❌|
-|both|❌|✅|❌|
-|several|❌|✅|❌|
 
 
 ## Posession
@@ -51,3 +33,20 @@
 |two|❌|✅|❌|
 |three|❌|✅|❌|
 |...|❌|✅|❌|
+
+## Rest
+|Determiner|Singular <br> Countable <br> (e.g cat)|Plural <br> Countable <br> (e.g. cats) | Singular <br> Uncountable <br> (e.g water)|
+|-|-|-|-|
+|each/every| ✅|❌|❌|
+|another| ✅|❌|❌|
+|either/neither|✅|❌|❌|
+|another|✅|❌|❌|
+|all|❌|✅|✅|
+|any|❌|✅|✅|
+|enough|❌|✅|✅|
+|more/less|❌|❌|✅|
+|much/little|❌|❌|✅|
+|many/few|❌|✅|❌|
+|both|❌|✅|❌|
+|several|❌|✅|❌|
+|no|✅|✅|✅|
