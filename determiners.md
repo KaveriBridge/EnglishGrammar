@@ -4,7 +4,7 @@
 |Indefinite - a/an|✅|❌|❌|
 |Definite - the|✅|✅|✅|
 
-## This/That
+## This/That/These/Those
 |Determiner|Singular <br> Countable <br> (e.g cat)|Plural <br> Countable <br> (e.g. cats) | Singular <br> Uncountable <br> (e.g water)|
 |-|-|-|-|
 |this/that|✅|❌|✅|
