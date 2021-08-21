@@ -40,7 +40,6 @@
 |each/every| ✅|❌|❌|
 |another| ✅|❌|❌|
 |either/neither|✅|❌|❌|
-|another|✅|❌|❌|
 |all|❌|✅|✅|
 |any|❌|✅|✅|
 |enough|❌|✅|✅|
