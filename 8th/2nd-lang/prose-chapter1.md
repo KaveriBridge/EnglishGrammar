@@ -1,8 +1,7 @@
 ## D. Grammar
 ### Task 1. 
 #### Read the following passage. Underline the common nouns. Say whether they are countables, that is, whether they can be counted one, two etc., or whether they are uncountables, that is, they cannot be counted. List them under different columns. Two examples are given.
-`There was a merchant in a town. His name was Parashuramappa. He had many friends. They helped him in selling milk all over the town. Parashuramappa loved to live in peace. 
-Also, he always spoke the truth. These qualities endeared him to all the people in the locality.`
+There was a __merchant__ in a __town__. His __name__ was Parashuramappa. He had many __friends__. They helped him in selling __milk__ all over the __town__. Parashuramappa loved to live in __peace__. Also, he always spoke the __truth__. These __qualities__ endeared him to all the __people__ in the __locality__.`
 
 | Common nouns | Countable/Uncountable|
 |-|-|
