@@ -14,6 +14,6 @@ Also, he always spoke the truth. These qualities endeared him to all the people 
 |peace|uncountable|
 |truth|uncountable|
 |qualities|countable|
-|people|uncountable|
+|people|countable|
 |locality|countable|
 
