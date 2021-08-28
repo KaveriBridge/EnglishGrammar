@@ -16,3 +16,11 @@ There was a __merchant__ in a __town__. His __name__ was Parashuramappa. He had 
 |people|countable|
 |locality|countable|
 
+### Articles
+### Task 2. F ill in the blanks using ‘a’, ‘an’ or ‘the’ only where necessary. If no article is necessary write (Ø) in the blank.
+#### 1. Abdul is .............. excellent football player. As ...............student, he won many prizes. Now he has joined. ........... multinational company. .......... company encourages him to play for ...........state level tournaments.
+
+Abdul is __an__ excellent football player. As ...............student, he won many prizes. Now he has joined. ........... multinational company. .......... company encourages him to play for ...........state level tournaments.
+
+#### 2. .... Democracy is .........best form of government for, all ......people have ....... right to vote. Even in ........ emergency,......... people do not lose their ........ rights, in that form of government.
+#### 3. ......... Peter lives in .......... same locality as I do. His father is ......... Assistant Engineer. He loves ....... music and ........ sports. His most favourite sports is ....... cricket.
