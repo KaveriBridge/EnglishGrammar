@@ -9,5 +9,5 @@
 | News | Present perfect | India __has won__ the test match. <br> My sister __has given__ birth to a baby boy.|
 | Started in the past, continues in the present |Present perfect| I __have lived__ in Bangalore since 1990. <br> He __has lived__ in Mandya since his birth.|
 | Actions repeated till now | Present perfect| I __have been__ to Goa many times before. <br> India __has won__ the World Cup two times. |
-| Actions just complete | Present perfect | I __have drunk__ tea just now <br> Amar __has just finished__ his class. |
+| Actions just complete | Present perfect | I __have drunk__ tea just now. <br> Amar __has just finished__ his class. |
 | Actions repeated in the past | Present perfect| I __had been__ to Goa many times before. <br> Ram __has visited__ Hampi six times. |
