@@ -11,4 +11,8 @@
 | Actions repeated till now | Present perfect| I __have been__ to Goa many times before. <br> India __has won__ the World Cup two times. |
 | Actions just complete | Present perfect | I __have drunk__ tea just now. <br> Amar __has just finished__ his class. |
 | Actions repeated in the past | Present perfect| I __had been__ to Goa many times before. <br> Ram __has visited__ Hampi six times. |
-| One event happened before another | Past perfect | I reached 5 minutes late and <br> the teacher __had begun__ the lesson |
+| One event happened before another | Past perfect | I __reached__ 5 minutes late and <br> the teacher __had begun__ the lesson |
+| Ongoing action| Present continous | I __am eating__ food now. |
+| Already planned future event | Present continous | We __are going__ to visit Rajasthan in March |
+| Trend | Present continous | Everything __is going__ online now. |
+| With "always", "forever", "constantly" | Present continous | They are always __talking__ to each other. |
