@@ -11,3 +11,4 @@
 | Actions repeated till now | Present perfect| I __have been__ to Goa many times before. <br> India __has won__ the World Cup two times. |
 | Actions just complete | Present perfect | I __have drunk__ tea just now. <br> Amar __has just finished__ his class. |
 | Actions repeated in the past | Present perfect| I __had been__ to Goa many times before. <br> Ram __has visited__ Hampi six times. |
+| One event happened before another | Past perfect | I was to late to the class and <br> the teacher __had begun__ the lesson |
