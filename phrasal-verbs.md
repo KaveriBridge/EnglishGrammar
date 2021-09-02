@@ -1,6 +1,8 @@
 | Phrasal Verb | Meaning | Similar | Usage|
 |-|-|-|-|
-|run away||||  
+|run away||escape||  
+|run away||avoid||  
+|run away||elope with||  
 |run down||||  
 |run into||||  
 |run out||||  
