@@ -1,11 +1,17 @@
 # Table
-||Preposition|Example|
+|Word|Preposition|Example|
 |-|-|-|
-|Time|__at__ 9AM| My school starts __at__ 9:00 AM|
-|Day|__on__ Sunday| I did not have school __on__ Sunday|
-|Date|__on__ 2nd October| Gandhi was born __on__ 2nd October|
-|Month|__in__ December| It is cold __in__ December|
-|
+|Precise time | __at__ 9AM         | My school starts __at__ 9:00 AM|
+|Day          | __on__ Sunday      | I did not have school __on__ Sunday|
+|Date         | __on__ 2nd October | Gandhi was born __on__ 2nd October|
+|Month        | __in__ December    | It is usually cold __in__ December|
+|Year         | __in__ 1947        | India became independent __in__ 1947|
+|Future       | __in__ the future  | We do not know what will happen __in__ the future|
+|Past         | __in__ the past    | No point living __in__ the past|
+|Seasons      | __in__ the summer  | |
+|time         | __on__ time        | We should submit the homework on time| 
+|time         | __in__ time        | I reached the station in time |
+
 # Questions
 #### What is the time __________ your watch?
 #### My father will retire from service __________ a year.
