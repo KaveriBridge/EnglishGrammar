@@ -1,3 +1,14 @@
+# Rules for at/on/in with time
+* __at__ with precise time
+* __on__ with days and dates
+* __in__ with longer periods like months, years, decades, centuries.
+* None with last, next, every, this
+
+# Rules for at/on/in with locations
+* __at__	with specific locations, addresses, companies, stores, events, parties, desks, counters
+* __in__ with	enclosed spaces, buildings, organizations, regions, water, deserts, mountain ranges, forests, cities, countries, continents, the sky, space, cars, groups of people, little boats
+* __on__	with surfaces, roads, corners, shores, single mountains, islands, planets, public transportation, bikes, big boats, stairs, balconies, walkways
+
 # Table
 |Word|Preposition|Example|
 |-|-|-|
