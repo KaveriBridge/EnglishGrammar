@@ -1,5 +1,12 @@
-Questions
-
+# Table
+||Preposition|Example|
+|-|-|-|
+|Time|__at__ 9AM| My school starts __at__ 9:00 AM|
+|Day|__on__ Sunday| I did not have school __on__ Sunday|
+|Date|__on__ 2nd October| Gandhi was born __on__ 2nd October|
+|Month|__in__ December| It is cold __in__ December|
+|
+# Questions
 #### What is the time __________ your watch?
 #### My father will retire from service __________ a year.
 #### Most of us eat __________ a spoon.
@@ -24,3 +31,5 @@ Questions
 #### The professor _______ Vijapur amazed the PUC students with her stories. 
 #### I'll see you ____ home when I get there. 
 #### It's been raining ________ Sunday. 
+
+
