@@ -1,8 +1,10 @@
-# Rules for at/on/in with time
-* __at__ with precise time
-* __on__ with days and dates
-* __in__ with longer periods like months, years, decades, centuries.
-* None with last, next, every, this
+# Preposition with time
+|Preposition|Time Categories|
+|-|-|
+|at|clock times <br> exact times of day<br>  night <br>  holiday periods|
+|in|months<br>  years<br>  morning/afternoon/evening<br>  seasons<br>  centuries<br>  eras|
+|on|days<br>  dates<br>  holidays<br>  weekends<br>  days+morning/afternoon/evening|
+|No preposition|last<br> next<br> every<br> this|
 
 # Rules for at/on/in with locations
 * __at__	with specific locations, addresses, companies, stores, events, parties, desks, counters
