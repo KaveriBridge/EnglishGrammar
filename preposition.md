@@ -7,9 +7,11 @@
 |No preposition|last<br> next<br> every<br> this|
 
 # Rules for at/on/in with locations
-* __at__	with specific locations, addresses, companies, stores, events, parties, desks, counters
-* __in__ with	enclosed spaces, buildings, organizations, regions, water, deserts, mountain ranges, forests, cities, countries, continents, the sky, space, cars, groups of people, little boats
-* __on__	with surfaces, roads, corners, shores, single mountains, islands, planets, public transportation, bikes, big boats, stairs, balconies, walkways
+|Preposition| Location|
+|-|-|
+|at| specific locations<br> addresses<br> companies<br> stores<br> events<br> parties<br> desks<br> counters
+|in| enclosed spaces<br> buildings<br> organizations<br> regions<br> water<br> deserts<br> mountain ranges<br> forests<br> cities<br> countries<br> continents<br> the sky<br> space<br> cars<br> groups of people<br> little boats
+|on| surfaces<br>  roads<br>  corners<br>  shores<br>  single mountains<br>  islands<br>  planets<br>  public transportation<br>  bikes<br>  big boats<br>  stairs<br>  balconies<br>  walkways
 
 # Table
 |Word|Preposition|Example|
