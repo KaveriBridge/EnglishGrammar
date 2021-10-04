@@ -3,7 +3,7 @@
 |Nisha| Hi Swati, how are you?|
 |Swati| Hello Nisha, I am fine, thank you. How about you?
 |Nisha| I am doing good too. Have they started classes in your school?
-|Swati| Yes, they have. We have a half-a-day classes now.
+|Swati| Yes, they have. We have half-day classes now.
 |Nisha| Ah! When will they start full-day classes?
 |Swati| They plan to do it after Dasara.
 |Nisha| How do you find being back to school?
